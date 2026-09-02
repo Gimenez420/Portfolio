@@ -5,7 +5,7 @@ export default function Skills() {
         skills: ["C#", "Python", "JavaScript", "TypeScript"],
     },
     {
-        title: "Frameworks",
+        title: "Web",
         skills: ["HTML", "CSS", "Next.js", "Tailwind CSS", "WordPress"],
     },
     {

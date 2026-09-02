@@ -1,6 +1,6 @@
 export default function Hero() {
     return (
-    <section className="mx-auto grid min-h-[80vh] w-full max-w-6xl grid-cols-1 items-center gap-12 px-8 py-20 md:grid-cols-2">
+    <section className="mx-auto grid min-h-[70vh] w-full max-w-6xl grid-cols-1 items-center gap-12 px-8 py-12 md:grid-cols-2">
         <div>
         <p className="mb-5 text-sm font-semibold tracking-[0.25em] text-purple-400">
             DESARROLLADOR WEB

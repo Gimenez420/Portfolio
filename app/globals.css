@@ -15,7 +15,13 @@ html {
 
 body {
   margin: 0;
-  background: var(--background);
+  background:
+    radial-gradient(
+      circle at top,
+      rgba(124, 58, 237, 0.12),
+      transparent 40%
+    ),
+    var(--background);
   color: var(--foreground);
   font-family: var(--font-geist-sans), sans-serif;
 }
@@ -24,3 +30,4 @@ body {
   background: #7c3aed;
   color: white;
 }
+
