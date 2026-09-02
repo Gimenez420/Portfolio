@@ -2,7 +2,7 @@ export default function Contact() {
     return (
     <section
         id="contacto"
-        className="mx-auto max-w-6xl px-8 py-20"
+        className="mx-auto max-w-6xl px-8 py-24"
     >
         <div className="rounded-2xl border border-gray-800 bg-gray-950 p-8">
         <p className="text-sm font-semibold tracking-widest text-purple-400">

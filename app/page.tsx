@@ -6,11 +6,13 @@ import Experience from "@/components/Experience";
 import Education from "@/components/Education";
 import Contact from "@/components/Contact";
 import CV from "@/components/CV";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
     <>
       <Header />
+      
       <main>
         <Hero />
         <Projects />
@@ -20,6 +22,8 @@ export default function Home() {
         <CV />
         <Contact />
       </main>
+
+        <Footer />
     </>
   );
 }
