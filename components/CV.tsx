@@ -19,7 +19,7 @@ export default function CV() {
         </p>
 
         <a
-            href="/public/CV_Ricardo_Gimenez_Valero.pdf"
+            href="/CV-RicardoGimenezValero.pdf" 
             target="_blank"
             rel="noopener noreferrer"
             className="mt-8 inline-block rounded-lg bg-purple-600 px-6 py-3 font-semibold transition hover:bg-purple-500"
